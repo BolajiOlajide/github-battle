@@ -19,7 +19,6 @@ const SelectLanguage = (props) => {
 	);
 }
 
-console.log(SelectLanguage);
 
 // class SelectLanguage extends React.Component {
 // 	render() {
